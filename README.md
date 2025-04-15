@@ -1,4 +1,12 @@
-## Hi there 👋
+
+👋 GM GM there!
+I’m a Software Engineer with a deep passion for building robust, high-performance systems using C++ and Rust. I thrive on solving complex problems and pushing the boundaries of what’s possible in software engineering.
+
+- 🚀 Languages I love: C++, Rust, Go, and a sprinkle of Python
+- 🛠️ What I do: System design and performance optimization
+- 🤝 Let’s connect: Always open to collaboration, code reviews, and sharing knowledge
+
+_“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
 <!--
 **greg45/greg45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
