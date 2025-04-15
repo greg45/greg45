@@ -4,7 +4,7 @@ I’m a Software Engineer with a deep passion for building robust, high-performa
 
 - 🚀 Languages I love: C++, Rust, Go, and a sprinkle of Python
 - 🛠️ What I do: System design and performance optimization
-- 👀 I’m interested in: Web3, Cryptography, and Cyperpunk
+- 👀 I’m interested in: Web3, Cryptography, and Cyberpunk
 - 🤝 Let’s connect: Always open to collaboration, code reviews, and sharing knowledge
 
 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
